@@ -1,13 +1,13 @@
-# Orange714
+# 🍊Orange714
 [<img src="https://img.shields.io/github/followers/Orange714?label=follow&style=social" height="36" title="Follow me" />](https://github.com/Orange714) 
 <h3 align="center">📚学无止境，运动不止🏓</h3>
 <h3 align="center">🏗️略懂建筑设计、生物医学（理论)🥬</h3>
 <h3 align="center">🤝接创意咨询，视项目情况定价💰</h3>
 
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=💕Welcom💖&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
-<h1 align="center">I'm Orange714</h1>
+<h1 align="center">I'm Orange714🍊</h1>
 <h3 align="center">A passionate Python developer from China</h3>
 
 <p align= "center">
@@ -22,10 +22,10 @@
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Orange714&theme=monokai">
 
 ### 📫 How to reach me:
-- :octocat: [github@Orange714](https://github.com/Orange714)
-- :email: [gmail@Orange714](mailto:orange714.lion@gmail.com)
-- :tv: [bilibili@Orange714](https://space.bilibili.com/)
-- :bird: [yuque@Orange714](https://www.yuque.com/Orange714)
+- :octocat: [github@🍊714](https://github.com/Orange714)
+- :email: [gmail@🍊714](mailto:orange714.lion@gmail.com)
+- :tv: [bilibili@🍊714](https://space.bilibili.com/)
+- :bird: [yuque@🍊714](https://www.yuque.com/Orange714)
 
 
 | :pencil2: | :book:  |
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 
 
-## 📑个人信息
+## 📑关于🍊的一些其他信息
 
  <h3 align="left">🌐语言：中\英\德</h3>
  - ✨狂热的乒乓球菜鸟，会太极和八段锦，与练瑜伽也不冲突。
