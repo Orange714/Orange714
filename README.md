@@ -2,15 +2,16 @@
 - 学无止境，运动不止。
 - 略懂建筑设计、生物医学（理论)。
 - 接创意咨询，视项目情况收费，一口价。
-# 联系方式
-
-- Email：orange714.lion@gmail.com
 
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
 <h1 align="center">I'm Orange714</h1>
 <h3 align="center">A passionate Python developer from China</h3>
+
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/C/C-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/R/R-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></code>
 
 ### 🌈 Github Stats:
 <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@Orange714?theme=rule34"></a><br>
@@ -62,7 +63,7 @@ Here are some ideas to get you started:
  - 抵制一切盲目投喂流浪\野生动物的行为！！！
  - 专业：统计学
  - 自修：社会学\社会工作\植物学\古建筑学
- - 6年编程经验:Python\R\matlab\C
+ 
  - 技术博客：……
 
  - 自由创作者：创作中文诗歌、小说、散文、剧本等，偶有作品发表于《青春》《青春风》等刊物，高中时期主编过报纸并免费发行于校园，作品《殊途》《同归》完善中，欢迎约稿。
@@ -72,6 +73,5 @@ Here are some ideas to get you started:
 
   
 ---      
-# 致谢
-
+## 未完待续
       
