@@ -73,4 +73,5 @@ Here are some ideas to get you started:
   
 ---      
 ## 未完待续
-      
+<!-- Any image aligned to the right. Beware the width -->
+<img width="80%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
