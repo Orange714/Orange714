@@ -9,9 +9,8 @@
 <h1 align="center">I'm Orange714</h1>
 <h3 align="center">A passionate Python developer from China</h3>
 
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/C/C-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/R/R-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 
 ### 🌈 Github Stats:
 <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@Orange714?theme=rule34"></a><br>
