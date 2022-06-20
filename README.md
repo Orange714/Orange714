@@ -19,10 +19,10 @@
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Orange714&theme=monokai">
 
 ### 📫 How to reach me:
-- :octocat: [github@xiaorang](https://github.com/Orange714)
-- :email: [gmail@xiaorang](mailto:orange714.lion@gmail.com)
-- :tv: [bilibili@xiaorang](https://space.bilibili.com/)
-- :bird: [yuque@xiaorang](https://www.yuque.com/Orange714)
+- :octocat: [github@Orange714](https://github.com/Orange714)
+- :email: [gmail@Orange714](mailto:orange714.lion@gmail.com)
+- :tv: [bilibili@Orange714](https://space.bilibili.com/)
+- :bird: [yuque@Orange714](https://www.yuque.com/Orange714)
 
 
 | :pencil2: | :book:  |
