@@ -16,7 +16,7 @@
   <code><img width="20%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 
 ### 🌈 Github Stats:
-<a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@Orange714?theme=rule34"></a><br>
+<a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@Orange714?theme=rule31"></a><br>
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=Orange714&bg_color=36,e96443,904e95&title_color=fff&text_color=fff">
 <img align="center" src = "http://github-readme-streak-stats.herokuapp.com?user=Orange714&theme=dracula">
 <img align="center" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Orange714&theme=monokai">
